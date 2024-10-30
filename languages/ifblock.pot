@@ -1,0 +1,215 @@
+# Copyright (C) 2020 MyPreview
+# This file is distributed under the GPL-3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: If Block — Visibility control for Blocks 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ifblock\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-06-13T16:21:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: ifblock\n"
+
+#. Plugin Name of the plugin
+msgid "If Block — Visibility control for Blocks"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.mypreview.one"
+msgstr ""
+
+#. Description of the plugin
+msgid "This block enables you to configure certain content to appear only if specified conditions are met (or be hidden) by setting different visibility rules."
+msgstr ""
+
+#. Author of the plugin
+msgid "MyPreview"
+msgstr ""
+
+#: class-ifblock.php:163
+msgctxt "clone"
+msgid "Cloning instances of this class is forbidden."
+msgstr ""
+
+#: class-ifblock.php:172
+msgctxt "wakeup"
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#. translators: 1: Open anchor tag, 2: Close anchor tag.
+#: class-ifblock.php:238
+msgctxt "plugin link"
+msgid "%1$sHire Me!%2$s"
+msgstr ""
+
+#. translators: 1: Open anchor tag, 2: Close anchor tag.
+#: class-ifblock.php:238
+msgctxt "upsell"
+msgid "Looking for help? Hire Me!"
+msgstr ""
+
+#. translators: 1: Open anchor tag, 2: Close anchor tag.
+#: class-ifblock.php:240
+msgctxt "plugin link"
+msgid "%1$sSupport%2$s"
+msgstr ""
+
+#: includes/class-api.php:93
+msgctxt "role name"
+msgid "None"
+msgstr ""
+
+#: includes/class-api.php:118
+msgctxt "browser name"
+msgid "None"
+msgstr ""
+
+#: includes/class-api.php:122
+msgctxt "browser name"
+msgid "Google Chrome"
+msgstr ""
+
+#: includes/class-api.php:126
+msgctxt "browser name"
+msgid "Safari"
+msgstr ""
+
+#: includes/class-api.php:130
+msgctxt "browser name"
+msgid "iPhone Safari"
+msgstr ""
+
+#: includes/class-api.php:134
+msgctxt "browser name"
+msgid "Netscape 4"
+msgstr ""
+
+#: includes/class-api.php:138
+msgctxt "browser name"
+msgid "FireFox"
+msgstr ""
+
+#: includes/class-api.php:142
+msgctxt "browser name"
+msgid "Opera"
+msgstr ""
+
+#: includes/class-api.php:146
+msgctxt "browser name"
+msgid "Microsoft Edge"
+msgstr ""
+
+#: includes/class-api.php:150
+msgctxt "browser name"
+msgid "Internet Explorer"
+msgstr ""
+
+#: includes/class-api.php:154
+msgctxt "browser name"
+msgid "Mac Internet Explorer"
+msgstr ""
+
+#: includes/class-api.php:158
+msgctxt "browser name"
+msgid "Windows Internet Explorer"
+msgstr ""
+
+#: src/else/components/Edit.jsx:34
+msgctxt "help"
+msgid "Content shown if the conditions of the above block are not met."
+msgstr ""
+
+#: src/else/index.js:16
+msgctxt "block title"
+msgid "Else"
+msgstr ""
+
+#: src/if/index.js:16
+msgctxt "block title"
+msgid "If"
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:21
+msgctxt "control label"
+msgid "Operator"
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:24
+msgctxt "control label"
+msgid "The block will be shown if all conditions defined below are true or match."
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:29
+msgctxt "control label"
+msgid "The block will be shown if either of the conditions defined below is true or a match."
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:36
+msgctxt "aria label"
+msgid "Conditional operator"
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:46
+msgctxt "operator"
+msgid "AND"
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:57
+msgctxt "operator"
+msgid "OR"
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:63
+msgctxt "control label"
+msgid "User Role"
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:64
+msgctxt "control help"
+msgid "The block content will be shown to users that are logged-in and in the selected role."
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:78
+msgctxt "control label"
+msgid "Browser"
+msgstr ""
+
+#: src/ifblock/components/Inspector.jsx:79
+msgctxt "control help"
+msgid "The block content will be shown to users that are browsing the page via the selected browser."
+msgstr ""
+
+#: src/ifblock/index.js:17
+msgctxt "block title"
+msgid "If Block"
+msgstr ""
+
+#: src/ifblock/index.js:26
+msgctxt "block description"
+msgid "This block enables you to configure certain content to appear only if specified conditions are met (or be hidden) by setting different visibility rules."
+msgstr ""
+
+#: src/ifblock/index.js:32
+msgctxt "block keyword"
+msgid "Protected"
+msgstr ""
+
+#: src/ifblock/index.js:33
+msgctxt "block keyword"
+msgid "Visibility"
+msgstr ""
+
+#: src/ifblock/index.js:34
+msgctxt "block keyword"
+msgid "Show Hide"
+msgstr ""
+
+#: src/utils/category.js:22
+msgctxt "block category"
+msgid "MyPreview"
+msgstr ""
